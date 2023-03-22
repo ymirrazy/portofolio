@@ -1,0 +1,36 @@
+.jumbotron {
+  padding-top: 7rem;
+  background-color:#00ffff;
+}
+#project {
+  background-color: #00ffff;
+}
+section {
+  padding-top: 9rem;
+}
+
+    .social-media-icon {
+        width: 20px 20px;
+        padding: 2px 3px 1px 3px;
+        background: #222;
+        color: #fff;
+        margin: 5px;
+        border-radius: 4px;
+    }
+    a.social-media-icon:hover{
+        background: #fff!important;
+        color: #222!important;
+    }
+    .facebook{
+        width: 20px;
+        background:  #3c5a98!important;
+    }
+    .twitter{
+        background: #1da1f2!important;
+    }
+    .blogger{
+        background: #ff5722!important;;
+    }
+    .instagram{
+        background: #262626!important;;
+    }
